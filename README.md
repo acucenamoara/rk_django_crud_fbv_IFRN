@@ -1,5 +1,7 @@
-# rk_django_crud_fbv_03
+# rk_django_crud_fbv_IFRN
 Projeto Django - CRUD (Create/Read/Update/Delete) usando Function-Base Views (FBVs) + CSS + JS
+
+Versão 1.0 (base para práticas da disciplina Programação para Internet - IFRN/CA)
 
 virtualenv venv
 
